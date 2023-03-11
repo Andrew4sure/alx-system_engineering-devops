@@ -1,2 +1,2 @@
-#!/bin/bash
-mv < Uppercase >* /tmp/u
+#!/bin/ba
+mv << Uppercase >>* /tmp/u
