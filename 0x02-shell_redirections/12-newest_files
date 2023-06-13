@@ -1,2 +1,2 @@
 #!/bin/bas
-ls 10n | head
+ls t1 | head
