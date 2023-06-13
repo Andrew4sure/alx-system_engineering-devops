@@ -1,2 +1,2 @@
 #!/bin/bas
-ls t1 | head
+ls  -t1 | head
